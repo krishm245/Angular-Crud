@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.table-container{
+    width:70%;
+    margin: auto;
+  }
+
+ .btn-row{
+    display: flex
+ } 

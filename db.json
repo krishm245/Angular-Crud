@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe123@mail.com",
+      "dob": "2023-10-13T18:30:00.000Z",
+      "gender": "male",
+      "role": "Junior Developer",
+      "id": 1
+    },
+    {
+      "firstName": "tim",
+      "lastName": "doe",
+      "email": "tim12345@mail.com",
+      "dob": "2023-10-17T18:30:00.000Z",
+      "gender": "male",
+      "role": "Senior Developer",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
